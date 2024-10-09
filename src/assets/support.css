@@ -1,0 +1,35 @@
+div.input {
+  /* background-color: blue; */
+  /* margin: auto; */
+}
+
+#support-form {
+  width: 40%;
+  margin: auto;
+  background-color: antiquewhite;
+  padding: 3%;
+}
+
+textarea {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  resize: vertical;
+}
+
+.MuiTextField-root #name {
+  /* position: absolute; */
+  /* padding: 5% !important;
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important; */
+  /* background-color: aquamarine; */
+}
+
+#name {
+  text-align: center;
+}
+
+#email {
+  text-align: center;
+}
